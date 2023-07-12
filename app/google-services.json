@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414833996028",
+    "project_id": "video-player-fb013",
+    "storage_bucket": "video-player-fb013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414833996028:android:eff3f19207cc6b19cba779",
+        "android_client_info": {
+          "package_name": "com.quantumsoft.fourk.max"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414833996028-jhodmo6jv4pl7m1s5gck9fgreil5lu94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABC6AGoCKVGBHJ_3n21ujaoMXs43lUc5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414833996028-jhodmo6jv4pl7m1s5gck9fgreil5lu94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
